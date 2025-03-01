@@ -46,3 +46,4 @@
 /Users/mskang/RiderProjects/CsharpTest1/CsharpTest1/obj/Debug/net8.0/CsharpTest1.pdb
 /Users/mskang/RiderProjects/CsharpTest1/CsharpTest1/obj/Debug/net8.0/CsharpTest1.genruntimeconfig.cache
 /Users/mskang/RiderProjects/CsharpTest1/CsharpTest1/obj/Debug/net8.0/ref/CsharpTest1.dll
+/Users/mskang/RiderProjects/CsharpTest1/CsharpTest1/obj/Debug/net8.0/CsharpTest1.sourcelink.json
